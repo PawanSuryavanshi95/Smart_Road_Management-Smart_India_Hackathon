@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403170551103",
+    "firebase_url": "https://smart-road-management.firebaseio.com",
+    "project_id": "smart-road-management",
+    "storage_bucket": "smart-road-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403170551103:android:24ef76bf15384182701f8a",
+        "android_client_info": {
+          "package_name": "com.example.smartroadmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403170551103-qso531ikgns7ec6ejl2ri01sgauf7p3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartroadmanagement",
+            "certificate_hash": "f3639dfcbb3a78b09169a5be23d5a502dbbcbd2a"
+          }
+        },
+        {
+          "client_id": "403170551103-bcdq2u2bf8h1kto0u790fngtbt17lg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aQdRWE5L48y1XGxo7O1qyYslapbQkdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403170551103-bcdq2u2bf8h1kto0u790fngtbt17lg7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
